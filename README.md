@@ -1,7 +1,7 @@
-> Escolha uma opção abaixo de Idioma.
+> Escolha um Idioma:\
 > Portugês ou Inglês
 
-> Choose an option under Language.
+> Choose a Language:\
 > Portuguese or English
 
 - [ENGLISH](resume-en.md)
