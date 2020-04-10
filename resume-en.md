@@ -1,52 +1,79 @@
-> [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) | 
-[21.26922032](tel:2126922032) | [21.9.9289.0362](tel:21992890362)
+# ANDERSON TOLEDO MARTINS MOREIRA
+> » *Frontend Developer - Rio de Janeiro, Brazil*  
 
-# Anderson Toledo Martins Moreira » Front End Developer
-> Atuo como Web Designer, há mais de 10 anos com criação de Layouts com Photoshop, Illustrator, HTML5/CSS3, Javascript (jQuery) e Bootstrap. Para projetos de Sites Institucionais, Catálogos Online, e projetos de pequeno/médio porte para Lojas Virtuais, utilizo Wordpress, com criação de temas simples e implementação de layout em temas prontos.
+> [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) 
+| [+55 21.26922032](tel:+552126922032) | [+55 21.9.9289.0362](tel:+5521992890362) 
+| [WhatsApp]([tel:21992890362](https://api.whatsapp.com/send?phone=5521992890362)) 
+| [LinkedIn](http://br.linkedin.com/in/atmmoreira) 
+| [GitHub](https://github.com/atmmoreira)
 
-> Com o objetivo de me tornar Frontend Engineer Developer, venho me atualizando nas novas features do ECMASCRIPT, para poder aprofundar meus conhecimentos e dominar tecnologias como: Javascript (Vanilla.js), Node.js (Express), Vue.js, React.js e React Native. E todo ecossistema que envolvem essas tecnologias, como Redis, MongoDB, Jenkins, Docker, Webpack, etc.
+> I’m a Web Designer for over 10 years creating Layouts with Photoshop, Illustrator, HTML5/CSS3, Javascript (jQuery) and Bootstrap. For projects of Institutional Websites, Online Catalogs, and Small Virtual Stores, I use WordPress with creation of simple themes and implementation of layout in ready themes.
+
+> In order to become a Fullstack Javascript Developer, I have been updating on the new features of ECMASCRIPT to deepen my knowledge and make me, master in technologies like: Javascript (Vanilla.js), Node.js (Express), Vue.js, React.js and React Native form mobile apps. In addition learn all ecosystems that involve these technologies, such as MongoDB, Jenkins, Docker, Webpack, etc.
 
 ----
 
-## EDUCAÇÃO
-**UNESA - (Universidade Estácio de Sá) - Rio de Janeiro, Brasil.**  
-TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*  
+## EDUCATION
+**UNESA - (University Estácio de Sá) - Rio de Janeiro, Brazil**  
+TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*  
 
 ----
 
 ## TECNOLOGIAS
-- BÁSICO: ExpressJs » Docker » MongoDB » NodeJs » ReactJs » RESTFull APIs » VueJs » Python » Django
-- INTERMEDIÁRIO: Javascript » jQuery » MySQL » Wordpress » Webpack
-- AVANÇADO: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS
+- BASIC: ExpressJs » Docker » MongoDB » NodeJs » ReactJs » RESTFull APIs » VueJs » Python » Django
+- INTERMEDIATE: Javascript » jQuery » MySQL » WordPress » Webpack
+- ADVANCED: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS
 
 ----
 
-## EXPERIÊNCIA
-**Tiplan, Frontend Developer, Rio de Janeiro - Brasil.**  
-*06/2019 - presente*  
-> Criação do Frontend de Sistemas NFS-e (Nota Fiscal de Serviços Eletrônica), SPE (Sistemas de Prefeitura Eletrônica) em aplicações .Net, utilizando SASS, HTML5/CSS3, jQuery, Bootstrap. Gerenciamento e versionamento de código utilizando TFS (Team Foundation Server) e Utilização de Metologia SCRUM.
+## PROJECTS
+> Recent projects with WordPress:
+- [Alltracker GPS](www.alltrackergps.com.br)
+- [Ambiental Elétrica](www.ambientaleletrica.com.br)
+- [Aprender e Empreender](www.aprendereempreender.com.br)
+- [Elétrica Solaris](www.eletricasolaris.com.br)
+- [Focus Cargo](www.focuscargo.com)
+- [Ketlog](www.ketlog.com.br)
+- [MRM Log](www.mrmlog.com.br)
+- [Solfono](www.solfono.com.br)
+- [Wgat](www.wgat.com.br)
 
-**ATSNET Soluções, Frontend Developer, Rio de Janeiro - Brasil.**  
-*09/2018 - 04/2019 :: REMOTO*  
-> Set-up de Hospedagens Compartilhadas. Criação do Frontend de um portal com HTML5/CSS3, jQuery, Bootstrap. Utilização da biblioteca Leaflet.js para Georreferenciamento. Diagramação e Codificação de layout. Manutenção em websites em Wordpress.
+> Project done in Laravel: [CjurX](www.cjurx.com.br), where I was able to participate:
+- With the creation of the layout layout of the Frontend and the Administrative Panel;
+- With basic Laravel knowledge, creating Migrations, Seeders, Models, Controllers via command line.
 
-**MediaTrust, Frontend Developer, Lisboa - Portugal.**  
-*12/2017 - 08/2018 :: REMOTO*  
-> Set-up de Hospedagens Compartilhadas. Diagramação e Codificação de layout. Wireframes e mockups de UI Design traduzidos em recursos responsivos e interativos, usando básico de PHP, HTML5/CSS3, jQuery e Bootstrap. Manutenção em websites em Wordpress.
+> Ongoing projects with WordPress:  
+- [Hope Ecotour](www.hopeecotour.com.br)
 
-**LDC comex, Frontend Developer, Rio de Janeiro - Brasil.**  
-*11/2015 - 11/2017 :: REMOTO*  
-> Criação do Frontend de Sistemas em .Net Framework para aplicações e ferramentas voltada para o mercado aduaneiro. Frontend atuando com HTML5/CSS3, jQuery e Bootstrap. Diagramação e Codificação de layouts. Manutenção em websites em Wordpress.
+----
 
-**Unigranrio, Frontend Developer, Rio de Janeiro - Brasil.**  
-*08/2011 - 10/2015 :: REMOTO*  
-> Conversão de arquivos PDF para HTML5/CSS3, jQuery e Bootstrap. Utilização da técnica Gracefull Degradation para harmonizar as telas. Manutenção em websites em Wordpress.
+## EXPERIENCES
+**Tiplan, Frontend Developer, Rio de Janeiro - Brazil.**  
+*06/2019 - current*  
+> I work with Creation Frontend Systems of .Net applications of NFS-e (Electronic Services Invoice), SPE (Electronic City Hall Systems), using SASS, HTML5/CSS3, jQuery, Bootstrap. Code management and versioning using Team Foundation Server (TFS) and SCRUM Methodology.
+
+
+**ATSNET Soluções, Frontend Developer, Rio de Janeiro - Brazil.**  
+*09/2018 - 04/2019 :: REMOTE*  
+> Shared Hosting Set-up. Frontend creation of a portal with HTML5/CSS3, jQuery, Bootstrap. Using the Leaflet.js library for georeferencing. Layout diagramming and coding. Maintenance on websites in WordPress.
+
+**MediaTrust, Frontend Developer, Lisbon - Portugal.**  
+*12/2017 - 08/2018 :: REMOTE*  
+> Shared Hosting Set-up. Layout diagramming and coding. UI Design wireframes and mockups translated into responsive and interactive features using HTML5/CSS3, jQuery, Bootstrap and the basic of PHP. Maintenance on websites in WordPress.
+
+**LDC comex, Frontend Developer, Rio de Janeiro - Brazil.**  
+*11/2015 - 11/2017 :: REMOTE*  
+> Creation Frontend of Systems for .Net Framework applications and tools focused on the customs market. Working with HTML5/CSS3, jQuery and Bootstrap. Layout diagramming and coding. Maintenance on websites in WordPress.
+
+**Unigranrio, Frontend Developer, Rio de Janeiro - Brazil.**  
+*08/2011 - 10/2015 :: REMOTE*  
+> Conversion of PDF files to HTML5/CSS3, jQuery and Bootstrap. Using Gracefull Degradation technique to harmonize screens. Maintenance on websites in WordPress.
 
 ----
 
 ## IDIOMAS
-- PORTUGUÊS: Nativo.
-- INGLÊS: Nível B1.
+- Portuguese: Native.
+- English: Level B1.
 
 ----
 
