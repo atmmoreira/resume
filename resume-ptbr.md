@@ -2,7 +2,7 @@
 > » *Frontend Developer - Rio de Janeiro, Brazil*  
 
 > [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) 
-| [+55 21.26922032](tel:+552126922032) | [+55 21.9.9289.0362](tel:+5521992890362) 
+| [(+55) (21) 2692.2032](tel:+552126922032) | [(+55) (21) 9.9289.0362](tel:+5521992890362) 
 | [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362)
 | [LinkedIn](http://br.linkedin.com/in/atmmoreira) 
 | [GitHub](https://github.com/atmmoreira)
