@@ -9,7 +9,7 @@
 
 > I’m a Web Designer for over 10 years creating Layouts with Photoshop, Illustrator, HTML5/CSS3, Javascript (jQuery) and Bootstrap. For projects of Institutional Websites, Online Catalogs, and Small Virtual Stores, I use WordPress with creation of simple themes and implementation of layout in ready themes.
 
-> In order to become a Fullstack Javascript Developer, I have been updating on the new features of ECMASCRIPT to deepen my knowledge and make me, master in technologies like: Javascript (Vanilla.js), Node.js (Express), Vue.js, React.js and React Native form mobile apps. In addition learn all ecosystems that involve these technologies, such as MongoDB, Jenkins, Docker, Webpack, etc.
+> In order to become a Fullstack Javascript Developer, I have been updating on the new features of ECMASCRIPT to deepen my knowledge and make me, master in technologies like: Javascript (Vanilla), Node (Express), Vue, React and React Native form mobile apps. In addition learn all ecosystems that involve these technologies, such as MongoDB, Jenkins, Docker, Webpack, etc.
 
 ----
 
@@ -20,7 +20,7 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 ----
 
 ## TECNOLOGIAS
-- BASIC: ExpressJs » Docker » MongoDB » NodeJs » ReactJs » RESTFull APIs » VueJs » Python » Django
+- BASIC: Express » Docker » MongoDB » Node » React » RESTFull APIs » Vue » TailwindCSS
 - INTERMEDIATE: Javascript » jQuery » MySQL » WordPress » Webpack
 - ADVANCED: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS
 
@@ -34,7 +34,6 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 - [Elétrica Solaris](www.eletricasolaris.com.br)
 - [Focus Cargo](www.focuscargo.com)
 - [Ketlog](www.ketlog.com.br)
-- [MRM Log](www.mrmlog.com.br)
 - [Solfono](www.solfono.com.br)
 - [Wgat](www.wgat.com.br)
 

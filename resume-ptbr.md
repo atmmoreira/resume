@@ -9,7 +9,7 @@
 
 > Atuo como Web Designer, há mais de 10 anos com criação de Layouts com Photoshop, Illustrator, HTML5/CSS3, Javascript (jQuery) e Bootstrap. Para projetos de Sites Institucionais, Catálogos Online, e projetos de pequeno/médio porte para Lojas Virtuais, utilizo WordPress, com criação de temas simples e implementação de layout em temas prontos.
 
-> Com o objetivo de me tornar Frontend Engineer Developer, venho me atualizando nas novas features do ECMASCRIPT, para poder aprofundar meus conhecimentos e dominar tecnologias como: Javascript (Vanilla.js), Node.js (Express), Vue.js, React.js e React Native. E todo ecossistema que envolvem essas tecnologias, como Redis, MongoDB, Jenkins, Docker, Webpack, etc.
+> Com o objetivo de me tornar Frontend Engineer Developer, venho me atualizando nas novas features do ECMASCRIPT, para poder aprofundar meus conhecimentos e dominar tecnologias como: Javascript (Vanilla), Node (Express), Vue, React e React Native. E todo ecossistema que envolvem essas tecnologias, como Redis, MongoDB, Jenkins, Docker, Webpack, etc.
 
 ----
 
@@ -20,7 +20,7 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ----
 
 ## TECNOLOGIAS
-- BÁSICO: ExpressJs » Docker » MongoDB » NodeJs » ReactJs » RESTFull APIs » VueJs » Python » Django
+- BÁSICO: Express » Docker » MongoDB » Node » React » RESTFull APIs » Vue » TailwindCSS
 - INTERMEDIÁRIO: Javascript » jQuery » MySQL » WordPress » Webpack
 - AVANÇADO: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS
 
@@ -34,7 +34,6 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 - [Elétrica Solaris](www.eletricasolaris.com.br)
 - [Focus Cargo](www.focuscargo.com)
 - [Ketlog](www.ketlog.com.br)
-- [MRM Log](www.mrmlog.com.br)
 - [Solfono](www.solfono.com.br)
 - [Wgat](www.wgat.com.br)
 
