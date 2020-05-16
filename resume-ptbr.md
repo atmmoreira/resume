@@ -29,21 +29,21 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 
 ## PROJETOS
 > Projetos recentes com WordPress:
-- [Alltracker GPS](www.alltrackergps.com.br)
-- [Ambiental Elétrica](www.ambientaleletrica.com.br)
-- [Aprender e Empreender](www.aprendereempreender.com.br)
-- [Elétrica Solaris](www.eletricasolaris.com.br)
-- [Focus Cargo](www.focuscargo.com)
-- [Ketlog](www.ketlog.com.br)
-- [Solfono](www.solfono.com.br)
-- [Wgat](www.wgat.com.br)
+- [Alltracker GPS](http://www.alltrackergps.com.br)
+- [Ambiental Elétrica](http://www.ambientaleletrica.com.br)
+- [Aprender e Empreender](http://www.aprendereempreender.com.br)
+- [Elétrica Solaris](http://www.eletricasolaris.com.br)
+- [Focus Cargo](http://www.focuscargo.com)
+- [Ketlog](http://www.ketlog.com.br)
+- [Solfono](http://www.solfono.com.br)
+- [Wgat](http://www.wgat.com.br)
 
-> Projeto feito em Laravel: [CjurX](www.cjurx.com.br), onde pude participar:
+> Projeto feito em Laravel: [CjurX](http://www.cjurx.com.br), onde pude participar:
 - Com a criação da diagramação Layout do Frontend e do Painel Administrativo;
 - Com conhecimentos em Laravel básicos, na criação de Migrations, Seeders, Models, Controllers via linha de comando.
 
 > Projetos em andamento com WordPress:  
-- [Hope Ecotour](www.hopeecotour.com.br)
+- [Hope Ecotour](http://www.hopeecotour.com.br/)
 
 ----
 
