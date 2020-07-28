@@ -32,7 +32,6 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 - [ATMM.Dev](https://www.atmm.dev) - Portfólio
 - [Alltracker GPS](http://www.alltrackergps.com.br)
 - [Ambiental Elétrica](http://www.ambientaleletrica.com.br)
-- [Aprender e Empreender](http://www.aprendereempreender.com.br)
 - [Elétrica Solaris](http://www.eletricasolaris.com.br)
 - [Focus Cargo](http://www.focuscargo.com)
 - [Ketlog](http://www.ketlog.com.br)
