@@ -30,6 +30,7 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 ## PROJECTS
 > Recent projects with WordPress:
 - [ATMM.Dev](https://www.atmm.dev) - Portfólio
+- [Art Prodigy Jiu Jitsu](http://artprodigyjiujitsu.com.br/)
 - [Alltracker GPS](http://www.alltrackergps.com.br)
 - [Ambiental Elétrica](http://www.ambientaleletrica.com.br)
 - [Elétrica Solaris](http://www.eletricasolaris.com.br)
