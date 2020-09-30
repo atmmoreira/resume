@@ -72,9 +72,15 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 
 ----
 
-## IDIOMAS
+## LANGUAGES
 - Portuguese: Native.
 - English: Level B1.
+
+----
+
+## COURSES
+- Docker: Essencial tools for Developers - [Visualizar Certificado](https://bit.ly/36kNzJ2)
+- Docker for Javascript/Node.js Developers - [Visualizar Certificado](https://bit.ly/34aEBvb)
 
 ----
 

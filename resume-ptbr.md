@@ -77,4 +77,10 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 
 ----
 
+## CURSOS
+- Docker: Essencial para desenvolvedores - [Visualizar Certificado](https://bit.ly/36kNzJ2)
+- Docker para desenvolvedores Javascript/Node.js - [Visualizar Certificado](https://bit.ly/34aEBvb)
+
+----
+
 ## [DOWNLOAD CURRÍCULO](docs/andersontoledo-pt.pdf)
