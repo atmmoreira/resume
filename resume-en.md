@@ -1,16 +1,18 @@
 # ANDERSON TOLEDO MARTINS MOREIRA
-> » *Web Designer Sr. & Frontend Developer Jr. - Rio de Janeiro, Brazil*
+> » *Javascript Developer - Rio de Janeiro, Brazil*
 
 > [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com)
-| [(+55) (21) 2692.2032](tel:+552126922032) | [(+55) (21) 9.9289.0362](tel:+5521992890362)
+| [(+55) (21) 9.9289.0362](tel:+5521992890362)
 | [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362)
 | [Telegram](https://telegram.me/atmmoreira)
 | [LinkedIn](http://br.linkedin.com/in/atmmoreira)
 | [GitHub](https://github.com/atmmoreira)
 
-> I’m a Web Designer for over 10 years creating Layouts with Photoshop, Illustrator, HTML5/CSS3, Javascript (jQuery) and Bootstrap. For projects of Institutional Websites, Online Catalogs, and Small Virtual Stores, I use WordPress with creation of simple themes and implementation of layout in ready themes.
+> I work as a Web Designer / Frontend, since 2000 with layout and layout coding with photoshop, illustrator, HTML5 / CSS3, javascript (jQuery) and bootstrap. Hands-on on institutional and corporate websites, online catalogs, small / medium size projects for online stores, with WordPress both in the creation of simple themes with PHP and in the implementation of layout in ready-made themes. Code management with Git / GitHub. Set-up of shared accommodation. Adept at using agile scrum and kanban methodologies, and programming paradigms such as object orientation and functional programming.
 
-> In order to become a Fullstack Javascript Developer, I have been updating on the new features of ECMASCRIPT to deepen my knowledge and make me, master in technologies like: Javascript (Vanilla), Node (Express), Vue, React and React Native form mobile apps. In addition learn all ecosystems that involve these technologies, such as MongoDB, Jenkins, Docker, Webpack, etc.
+> With the goal of becoming Javascript Fullstack Developer, I have been deepening to master technologies such as: javascript (vanilla), node, vue, react and react native. And every ecosystem that involves these technologies, such as redis, mongodb, jenkins, docker, webpack, etc. I always try to keep myself updated on matters related to microservices, TDD, unit tests, end-to-end, among others through courses on udemy and books.
+
+> My goals do not stop only with the specialization of Javascript technology, I also want to build a knowledge of PHP, laravel, python, django and flask. It can thus be flexible in the company for both frontend and backend.
 
 ----
 
@@ -20,55 +22,76 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 
 ----
 
-## TECNOLOGIAS
-- BASIC: Express » Docker » MongoDB » Node » React » RESTFull APIs » Vue » TailwindCSS
-- INTERMEDIATE: Javascript » jQuery » MySQL » WordPress » Webpack
-- ADVANCED: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS
+## SKILLS
+- BASIC: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » TailwindCSS.
+- INTERMEDIATE: Javascript » jQuery » MySQL » WordPress » Webpack.
+- ADVANCED: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS.
 
 ----
 
 ## PROJECTS
-> Recent projects with WordPress:
-- [ATMM.Dev](https://www.atmm.dev) - Portfólio
-- [Art Prodigy Jiu Jitsu](http://artprodigyjiujitsu.com.br/)
-- [Alltracker GPS](http://www.alltrackergps.com.br)
-- [Ambiental Elétrica](http://www.ambientaleletrica.com.br)
-- [Elétrica Solaris](http://www.eletricasolaris.com.br)
-- [Focus Cargo](http://www.focuscargo.com)
-- [Ketlog](http://www.ketlog.com.br)
-- [Solfono](http://www.solfono.com.br)
-- [Wgat](http://www.wgat.com.br)
+> Projects in Node:
+- Node with EJS: https://atmm-contacts.herokuapp.com/
+- API Restfull with Node: https://github.com/atmmoreira/udemy_javascript_modern/tree/master/chapter_13_apiRest
 
-> Project done in Laravel: [CjurX](http://www.cjurx.com.br), where I was able to participate:
-- With the creation of the layout layout of the Frontend and the Administrative Panel;
-- With basic Laravel knowledge, creating Migrations, Seeders, Models, Controllers via command line.
+> Project in React:
+- Consumption of API Restfull in Node: https://github.com/atmmoreira/udemy_javascript_modern/tree/master/chapter_15-react-api
+-
+> Recent projects:
+- [ATMM.Dev](https://www.atmm.dev) - Portfolio [HTML5/CSS3, Javascript, Bootstrap and PHP]
+- [Alltracker GPS](http://www.alltrackergps.com.br) [WordPress]
+- [Ambiental Elétrica](http://www.ambientaleletrica.com.br) [WordPress]
+- [Art Prodigy Jiu Jitsu](http://artprodigyjiujitsu.com.br/) [HTML5/CSS3, Javascript, Bootstrap and PHP]
+- [Elétrica Solaris](http://www.eletricasolaris.com.br) [WordPress]
+- [Focus Cargo](http://www.focuscargo.com) [WordPress]
+- [Hope Ecotour](http://www.hopeecotour.com.br) [WordPress]
+- [Interoceânica](http://www.interoceanica.com.br) [WordPress]
+- [Ketlog](http://www.ketlog.com.br) [WordPress]
+- [Portal Rioinvest](http://www.rioinvest.rj.gov.br) [HTML5/CSS3, Javascript, Leaflet.js, Bootstrap and PHP]
+- [Solfono](http://www.solfono.com.br) [HTML5/CSS3, Javascript, Bootstrap and PHP]
+- [Wgat](http://www.wgat.com.br) [WordPress]
 
-> Ongoing projects with WordPress:  
-- [Hope Ecotour](http://www.hopeecotour.com.br/)
+> Project in Laravel:
+- [CjurX](http://www.cjurx.com.br) Where I could participate, with the creation of Frontend and inside pages for the Administrative Panel. With basic Laravel knowledge creating Migrations, Seeders, Models, Controllers via command line.
 
 ----
 
 ## EXPERIENCES
-**Tiplan, Frontend Developer, Rio de Janeiro - Brazil.**
-*06/2019 - current*
-> I work with Creation Frontend Systems of .Net applications of NFS-e (Electronic Services Invoice), SPE (Electronic City Hall Systems), using SASS, HTML5/CSS3, jQuery, Bootstrap. Code management and versioning using Team Foundation Server (TFS) and SCRUM Methodology.
 
+**Elumini IT, Javascript Developer, Rio de Janeiro - Brasil.**
+*11/2020 - current :: Remote*
+> Building a platform to selling products with the technologies: adonisjs, react and node. In addition to consumption of API Restfull using TDD, versioning with git, gitflow and continuous integration with jenkins. Using scrum and kanbam methodologies to fulfill the sprints.
+
+**Tiplan, Frontend Developer, Rio de Janeiro - Brazil.**
+*06/2019 - 10/2020*
+> Creation of the frontend of NFS-e (Electronic Services Invoice), SPE (Electronic City Hall Systems) in .Net applications, using SASS, HTML5/CSS3, javascript (jQuery) and bootstrap. Code management and versioning using Azure, and methodologies scrum and kanbam.
 
 **ATSNET Soluções, Frontend Developer, Rio de Janeiro - Brazil.**
-*09/2018 - 04/2019 :: REMOTE*
+*09/2018 - 04/2019 :: Remote*
 > Shared Hosting Set-up. Frontend creation of a portal with HTML5/CSS3, jQuery, Bootstrap. Using the Leaflet.js library for georeferencing. Layout diagramming and coding. Maintenance on websites in WordPress.
 
 **MediaTrust, Frontend Developer, Lisbon - Portugal.**
-*12/2017 - 08/2018 :: REMOTE*
+*12/2017 - 08/2018 :: Remote*
 > Shared Hosting Set-up. Layout diagramming and coding. UI Design wireframes and mockups translated into responsive and interactive features using HTML5/CSS3, jQuery, Bootstrap and the basic of PHP. Maintenance on websites in WordPress.
 
 **LDC comex, Frontend Developer, Rio de Janeiro - Brazil.**
-*11/2015 - 11/2017 :: REMOTE*
+*11/2015 - 11/2017 :: Remote*
 > Creation Frontend of Systems for .Net Framework applications and tools focused on the customs market. Working with HTML5/CSS3, jQuery and Bootstrap. Layout diagramming and coding. Maintenance on websites in WordPress.
 
-**Unigranrio, Frontend Developer, Rio de Janeiro - Brazil.**
-*08/2011 - 10/2015 :: REMOTE*
-> Conversion of PDF files to HTML5/CSS3, jQuery and Bootstrap. Using Gracefull Degradation technique to harmonize screens. Maintenance on websites in WordPress.
+**Unigranrio, Frontend Developer - Rio de Janeiro, Brazil.**
+*Remote. 08/2011 - 10/2015.*
+
+**Agência Enfoco, Web Designer - Rio de Janeiro, Brazil.**
+*07/2009 - 07/2011.*
+
+**DTECH Consultoria, Web Designer - Rio de Janeiro, Brazil.**
+*01/2007 - 06/2009.*
+
+**Digital Intereativa, Web Designer - Rio de Janeiro, Brazil.**
+*10/2004 - 11/2006.*
+
+**Online Sistemas, Web Designer - Rio de Janeiro, Brazil.**
+*05/2000 - 08/2004.*
 
 ----
 
