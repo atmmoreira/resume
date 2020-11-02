@@ -8,7 +8,7 @@
 | [LinkedIn](http://br.linkedin.com/in/atmmoreira)
 | [GitHub](https://github.com/atmmoreira)
 
-> I work as a Web Designer / Frontend, since 2000 with layout and layout coding with photoshop, illustrator, HTML5 / CSS3, javascript (jQuery) and bootstrap. Hands-on on institutional and corporate websites, online catalogs, small / medium size projects for online stores, with WordPress both in the creation of simple themes with PHP and in the implementation of layout in ready-made themes. Code management with Git / GitHub. Set-up of shared accommodation. Adept at using agile scrum and kanban methodologies, and programming paradigms such as object orientation and functional programming.
+> I work as a Web Designer / Frontend, since 2000 building and coding layout with photoshop, illustrator, HTML5 / CSS3, javascript (jQuery) and bootstrap. Hands-on on institutional and corporate websites, online catalogs, small / medium size projects for online stores, with WordPress both in the creation of simple themes with PHP and in the implementation of layout in default or purchased themes. Code management with Git / GitHub. Knowledge in hosting such as AWS, heroku, shared servers, digitalocean and others. Adept at using agile scrum and kanban methodologies, and programming paradigms such as object orientation and functional programming.
 
 > With the goal of becoming Javascript Fullstack Developer, I have been deepening to master technologies such as: javascript (vanilla), node, vue, react and react native. And every ecosystem that involves these technologies, such as redis, mongodb, jenkins, docker, webpack, etc. I always try to keep myself updated on matters related to microservices, TDD, unit tests, end-to-end, among others through courses on udemy and books.
 
