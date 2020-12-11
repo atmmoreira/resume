@@ -8,7 +8,7 @@
 | [LinkedIn](http://br.linkedin.com/in/atmmoreira)
 | [GitHub](https://github.com/atmmoreira)
 
-> Atuo como Web Designer/Frontend, desde 2000 com diagramação e codificação de layout com photoshop, illustrator, HTML5/CSS3, javascript (jQuery) e bootstrap. Hands-on em sites institucionais e corporativos, catálogos online, projetos de pequeno/médio porte para lojas virtuais, com WordPress tanto na criação de temas simples com PHP quanto na implementação de layout em temas prontos. Gerenciamento de código com Git/GitHub. Set-up de hospedagens compartilhadas. Adepto a utilização de metodologias ágeis scrum e kanban, e paradigmas de programação como orientação à objetos e programação funcional.
+> Atuo como Web Designer/Frontend, desde 2000 com diagramação e codificação de layout com photoshop, illustrator, HTML5/CSS3, javascript (jquery) e bootstrap. Hands-on em sites institucionais e corporativos, catálogos online, projetos de pequeno/médio porte para lojas virtuais, com WordPress tanto na criação de temas simples com PHP quanto na implementação de layout em temas prontos. Gerenciamento de código com Git/GitHub. Set-up de hospedagens compartilhadas. Adepto a utilização de metodologias ágeis scrum e kanban, e paradigmas de programação como orientação à objetos e programação funcional.
 
 > Com o objetivo de me tornar Javascript Fullstack Developer, venho me aprofundando para dominar tecnologias como: javascript (vanilla), node, vue, react e react native. E todo ecossistema que envolvem essas tecnologias, como redis, mongodb, jenkins, docker, webpack, etc. Procuro me manter sempre atualizado nos assuntos referentes sobre microserviços, TDD, testes unitários, end-to-end, entre outros através de cursos na udemy e livros.
 
@@ -32,10 +32,10 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ## PROJETOS
 > Projetos em Node:
 - Node com EJS: https://atmm-contacts.herokuapp.com/
-- API Restfull com Node: https://github.com/atmmoreira/udemy_javascript_modern/tree/master/chapter_13_apiRest
+- API Restfull com Node: [Ver código fonte](https://bit.ly/3oHDZXc)
 
 > Projeto em React:
-- Consumo de API Restfull em Node: https://github.com/atmmoreira/udemy_javascript_modern/tree/master/chapter_15-react-api
+- Consumo de API Restfull em Node: [Ver código font](https://bit.ly/3oHE90K)
 
 > Projetos recentes:
 - [ATMM.Dev](https://www.atmm.dev) - Portfólio [HTML5/CSS3, Javascript, Bootstrap e PHP]

@@ -8,11 +8,11 @@
 | [LinkedIn](http://br.linkedin.com/in/atmmoreira)
 | [GitHub](https://github.com/atmmoreira)
 
-> I work as a Web Designer / Frontend, since 2000 building and coding layout with photoshop, illustrator, HTML5 / CSS3, javascript (jQuery) and bootstrap. Hands-on on institutional and corporate websites, online catalogs, small / medium size projects for online stores, with WordPress both in the creation of simple themes with PHP and in the implementation of layout in default or purchased themes. Code management with Git / GitHub. Knowledge in hosting such as AWS, heroku, shared servers, digitalocean and others. Adept at using methodologies like agile scrum and kanban, and programming paradigms such as object orientation and functional programming.
+> I work as a Web Designer/Frontend, since 2000 building and coding layout with photoshop, illustrator, HTML5/CSS3, javascript (jquery) and bootstrap. Hands-on on institutional and corporate websites, online catalogs, small/medium size projects for online stores, with wordpress both in the creation of simple themes with php and in the implementation of layout in default or purchased themes. Code management with git/github. Basic set-up of hosting such as aws, heroku, shared servers, digitalocean and others. Adept at using methodologies like agile scrum and kanban, and programming paradigms such as object orientation and functional programming.
 
 > With the goal of becoming Javascript Fullstack Developer, I have been deepening to master technologies such as: javascript (vanilla), node, vue, react and react native. And every ecosystem that involves these technologies, such as redis, mongodb, jenkins, docker, webpack, etc. I always try to keep myself updated on matters related to microservices, TDD, unit tests, end-to-end, among others through courses on udemy and books.
 
-> My goals do not stop only with the specialization of Javascript technology, I also want to build a knowledge of PHP, laravel, python, django and flask. It can thus be flexible in the company for both frontend and backend.
+> My learning doesn't stop only with the specialization of javascript technology, I also want to build a knowledge of php, laravel, python, django and flask. It can thus be flexible in the company for both frontend and backend.
 
 ----
 
@@ -102,8 +102,16 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 ----
 
 ## COURSES
-- Docker: Essencial tools for Developers - [Visualizar Certificado](https://bit.ly/36kNzJ2)
-- Docker for Javascript/Node.js Developers - [Visualizar Certificado](https://bit.ly/34aEBvb)
+> Udemy
+- Docker: Essencial tools for Developers - [Visualizar Certificado](https://bit.ly/2JUzZ6i)
+- Docker for Javascript/Node.js Developers - [Visualizar Certificado](https://bit.ly/3mb8SRm)
+
+> Digital Innovation One
+- Miscellaneous Certificates - [Visualizar Certificado](https://bit.ly/378WU6L)
+- Developer Web Front-End - [Visualizar Certificado](https://bit.ly/3qLNy8L)
+- HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
+- SPTech Developer Front-end - [Visualizar Certificado](https://bit.ly/377BUwV)
+- SPTech Developer Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
 
 ----
 
