@@ -12,7 +12,7 @@
 
 > Com o objetivo de me tornar Javascript Fullstack Developer, venho me aprofundando para dominar tecnologias como: javascript (vanilla), node, vue, react e react native. E todo ecossistema que envolvem essas tecnologias, como redis, mongodb, jenkins, docker, webpack, etc. Procuro me manter sempre atualizado nos assuntos referentes sobre microserviços, TDD, testes unitários, end-to-end, entre outros através de cursos na udemy e livros.
 
-> Meus objetivos não param somente na especialização da tecnologia Javascript, quero também construir um conhecimento das tecnologias PHP, laravel, python, django e flask. Podendo assim ser flexível na empresa tanto e tecnologias de frontend quanto backend.
+> Meu aprendizado não para somente na especialização da tecnologia Javascript, quero também construir um conhecimento das tecnologias PHP, laravel, python, django e flask. Podendo assim ser flexível na empresa tanto e tecnologias de frontend quanto backend.
 
 ----
 
