@@ -35,7 +35,7 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 - API Restfull com Node: [Ver código fonte](https://bit.ly/3oHDZXc)
 
 > Projeto em React:
-- Consumo de API Restfull em Node: [Ver código font](https://bit.ly/3oHE90K)
+- Consumo de API Restfull em Node: [Ver código fonte](https://bit.ly/3oHE90K)
 
 > Projetos recentes:
 - [ATMM.Dev](https://www.atmm.dev) - Portfólio [HTML5/CSS3, Javascript, Bootstrap e PHP]
