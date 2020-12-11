@@ -101,8 +101,16 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ----
 
 ## CURSOS
-- Docker: Essencial para desenvolvedores - [Visualizar Certificado](https://bit.ly/36kNzJ2)
-- Docker para desenvolvedores Javascript/Node.js - [Visualizar Certificado](https://bit.ly/34aEBvb)
+> Udemy
+- Docker: Essencial para desenvolvedores - [Visualizar Certificado](https://bit.ly/2JUzZ6i)
+- Docker para desenvolvedores Javascript/Node.js - [Visualizar Certificado](https://bit.ly/3mb8SRm)
+
+> Digital Innovation One
+- Certificados Diversos - [Visualizar Certificado](https://bit.ly/378WU6L)
+- Desenvolvedor Web Front-End - [Visualizar Certificado](https://bit.ly/3qLNy8L)
+- HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
+- SPTech Desenvolvimento Front-end - [Visualizar Certificado](https://bit.ly/377BUwV)
+- SPTech Desenvolvimento Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
 
 ----
 
