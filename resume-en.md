@@ -108,10 +108,12 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 
 > Digital Innovation One
 - Miscellaneous Certificates - [Visualizar Certificado](https://bit.ly/378WU6L)
-- Developer Web Front-End - [Visualizar Certificado](https://bit.ly/3qLNy8L)
+- Developer Web Frontend - [Visualizar Certificado](https://bit.ly/3qLNy8L)
 - HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
-- SPTech Developer Front-end - [Visualizar Certificado](https://bit.ly/377BUwV)
+- PHP Developer - [Visualizar Certificado]()
+- SPTech Developer Frontend - [Visualizar Certificado](https://bit.ly/377BUwV)
 - SPTech Developer Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
+- SPTech Developer Backend - [Visualizar Certificado]()
 
 ----
 
