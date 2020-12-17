@@ -23,7 +23,7 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 ----
 
 ## SKILLS
-- BASIC: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » TailwindCSS.
+- BASIC: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » Typescript » Python » TailwindCSS.
 - INTERMEDIATE: Javascript » jQuery » MySQL » WordPress » Webpack.
 - ADVANCED: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS.
 
@@ -110,10 +110,10 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 - Miscellaneous Certificates - [Visualizar Certificado](https://bit.ly/378WU6L)
 - Developer Web Frontend - [Visualizar Certificado](https://bit.ly/3qLNy8L)
 - HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
-- PHP Developer - [Visualizar Certificado]()
+- PHP Developer - [Visualizar Certificado](http://bit.ly/3muyIzZ)
 - SPTech Developer Frontend - [Visualizar Certificado](https://bit.ly/377BUwV)
 - SPTech Developer Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
-- SPTech Developer Backend - [Visualizar Certificado]()
+- SPTech Developer Backend - [Visualizar Certificado](http://bit.ly/3nwsVv5)
 
 ----
 

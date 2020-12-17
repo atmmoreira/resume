@@ -23,7 +23,7 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ----
 
 ## TECNOLOGIAS
-- BÁSICO: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » TailwindCSS.
+- BÁSICO: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » Typescript » Python » TailwindCSS.
 - INTERMEDIÁRIO: Javascript » jQuery » MySQL » WordPress » Webpack.
 - AVANÇADO: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS.
 
@@ -109,10 +109,10 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 - Certificados Diversos - [Visualizar Certificado](https://bit.ly/378WU6L)
 - Desenvolvedor Web Frontend - [Visualizar Certificado](https://bit.ly/3qLNy8L)
 - HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
-- Densenvolvedor PHP - [Visualizar Certificado]()
+- Densenvolvedor PHP - [Visualizar Certificado](http://bit.ly/3muyIzZ)
 - SPTech Desenvolvimento Frontend - [Visualizar Certificado](https://bit.ly/377BUwV)
 - SPTech Desenvolvimento Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
-- SPTech Desenvolvimento Backend - [Visualizar Certificado]()
+- SPTech Desenvolvimento Backend - [Visualizar Certificado](http://bit.ly/3nwsVv5)
 
 ----
 
