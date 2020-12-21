@@ -111,6 +111,8 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 - Developer Web Frontend - [Visualizar Certificado](https://bit.ly/3qLNy8L)
 - HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
 - PHP Developer - [Visualizar Certificado](http://bit.ly/3muyIzZ)
+- Node.js Web Developer - [Visualizar Certificado]()
+- Javascript Game Developer - [Visualizar Certificado]()
 - SPTech Developer Frontend - [Visualizar Certificado](https://bit.ly/377BUwV)
 - SPTech Developer Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
 - SPTech Developer Backend - [Visualizar Certificado](http://bit.ly/3nwsVv5)
