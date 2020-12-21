@@ -102,20 +102,20 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 ----
 
 ## COURSES
-> Udemy
-- Docker: Essencial tools for Developers - [Visualizar Certificado](https://bit.ly/2JUzZ6i)
-- Docker for Javascript/Node.js Developers - [Visualizar Certificado](https://bit.ly/3mb8SRm)
+> Udemy - All certificates are in Portuguese
+- Docker: Essencial tools for Developers - [View Certificate](https://bit.ly/2JUzZ6i)
+- Docker for Javascript/Node.js Developers - [View Certificate](https://bit.ly/3mb8SRm)
 
-> Digital Innovation One
-- Miscellaneous Certificates - [Visualizar Certificado](https://bit.ly/378WU6L)
-- Developer Web Frontend - [Visualizar Certificado](https://bit.ly/3qLNy8L)
-- HTML Web Developer - [Visualizar Certificado](https://bit.ly/33ZIjbG)
-- PHP Developer - [Visualizar Certificado](http://bit.ly/3muyIzZ)
-- Node.js Web Developer - [Visualizar Certificado](http://bit.ly/2WyI4jF)
-- Javascript Game Developer - [Visualizar Certificado](http://bit.ly/2WAcoL2)
-- SPTech Developer Frontend - [Visualizar Certificado](https://bit.ly/377BUwV)
-- SPTech Developer Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
-- SPTech Developer Backend - [Visualizar Certificado](http://bit.ly/3nwsVv5)
+> Digital Innovation One - All certificates are in Portuguese
+- Miscellaneous Certificates - [View Certificate](https://bit.ly/378WU6L)
+- Developer Web Frontend - [View Certificate](https://bit.ly/3qLNy8L)
+- HTML Web Developer - [View Certificate](https://bit.ly/33ZIjbG)
+- PHP Developer - [View Certificate](http://bit.ly/3muyIzZ)
+- Node.js Web Developer - [View Certificate](http://bit.ly/2WyI4jF)
+- Javascript Game Developer - [View Certificate](http://bit.ly/2WAcoL2)
+- SPTech Developer Frontend - [View Certificate](https://bit.ly/377BUwV)
+- SPTech Developer Fullstack - [View Certificate](https://bit.ly/37a99Qm)
+- SPTech Developer Backend - [View Certificate](http://bit.ly/3nwsVv5)
 
 ----
 
