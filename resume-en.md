@@ -58,9 +58,9 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 
 ## EXPERIENCES
 
-**Elumini IT, Javascript Developer, Rio de Janeiro - Brasil.**
-*11/2020 - current :: Remote*
-> Building a platform to selling products with the technologies: adonisjs, react and node. In addition to consumption of API Restfull using TDD, versioning with git, gitflow and continuous integration with jenkins. Using scrum and kanbam methodologies to fulfill the sprints.
+**Thera Solutions, Frontend Developer, Rio de Janeiro - Brasil.**
+*01/2021 - current :: Remote*
+> Allocated in TV Globo, working with technologies like Sharepoint, Node, HTML5, CSS3, Javascript, Vue, Vuex, Vuetify, Bootstrap, Git, GitHub, GitFlow, Azure (TFS), Scrum, Web Design and more.
 
 **Tiplan, Frontend Developer, Rio de Janeiro - Brazil.**
 *06/2019 - 10/2020*

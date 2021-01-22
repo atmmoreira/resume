@@ -57,9 +57,9 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ----
 
 ## EXPERIÊNCIA
-**Elumini IT, Frontend Developer, Rio de Janeiro - Brasil.**
-*11/2020 - presente :: REMOTO*
-> Construção de plataforma de produtos com as tecnologias: adonisjs, react e node. Além de consumo de API Restfull utilizando TDD, versionamento com git, gitflow e integração contínua com jenkins. Utilizando de metologias scrum e kanbam para cumprimento dos sprints.
+**Thera Solutions, Frontend Developer, Rio de Janeiro - Brasil.**
+*01/2021 - current :: Remote*
+> Alocado na TV Globo, trabalhando com tecnologias como Sharepoint, Node, HTML5, CSS3, Javascript, Vue, Vuex, Vuetify, Bootstrap, Git, GitHub, GitFlow, Azure (TFS), Scrum, Web Design entre outras.
 
 **Tiplan, Frontend Developer, Rio de Janeiro - Brasil.**
 *06/2019 - 10/2020*
