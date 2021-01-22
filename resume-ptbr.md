@@ -58,7 +58,7 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 
 ## EXPERIÊNCIA
 **Thera Solutions, Frontend Developer, Rio de Janeiro - Brasil.**
-*01/2021 - current :: Remote*
+*01/2021 - presente :: REMOTO*
 > Alocado na TV Globo, trabalhando com tecnologias como Sharepoint, Node, HTML5, CSS3, Javascript, Vue, Vuex, Vuetify, Bootstrap, Git, GitHub, GitFlow, Azure (TFS), Scrum, Web Design entre outras.
 
 **Tiplan, Frontend Developer, Rio de Janeiro - Brasil.**

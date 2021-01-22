@@ -59,7 +59,7 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 ## EXPERIENCES
 
 **Thera Solutions, Frontend Developer, Rio de Janeiro - Brasil.**
-*01/2021 - current :: Remote*
+*01/2021 - current :: REMOTE*
 > Allocated in TV Globo, working with technologies like Sharepoint, Node, HTML5, CSS3, Javascript, Vue, Vuex, Vuetify, Bootstrap, Git, GitHub, GitFlow, Azure (TFS), Scrum, Web Design and more.
 
 **Tiplan, Frontend Developer, Rio de Janeiro - Brazil.**
@@ -67,19 +67,19 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 > Creation of the frontend of NFS-e (Electronic Services Invoice), SPE (Electronic City Hall Systems) in .Net applications, using SASS, HTML5/CSS3, javascript (jQuery) and bootstrap. Code management and versioning using Azure, and methodologies scrum and kanbam.
 
 **ATSNET Soluções, Frontend Developer, Rio de Janeiro - Brazil.**
-*09/2018 - 04/2019 :: Remote*
+*09/2018 - 04/2019 :: REMOTE*
 > Shared Hosting Set-up. Frontend creation of a portal with HTML5/CSS3, jQuery, Bootstrap. Using the Leaflet.js library for georeferencing. Layout diagramming and coding. Maintenance on websites in WordPress.
 
 **MediaTrust, Frontend Developer, Lisbon - Portugal.**
-*12/2017 - 08/2018 :: Remote*
+*12/2017 - 08/2018 :: REMOTE*
 > Shared Hosting Set-up. Layout diagramming and coding. UI Design wireframes and mockups translated into responsive and interactive features using HTML5/CSS3, jQuery, Bootstrap and the basic of PHP. Maintenance on websites in WordPress.
 
 **LDC comex, Frontend Developer, Rio de Janeiro - Brazil.**
-*11/2015 - 11/2017 :: Remote*
+*11/2015 - 11/2017 :: REMOTE*
 > Creation Frontend of Systems for .Net Framework applications and tools focused on the customs market. Working with HTML5/CSS3, jQuery and Bootstrap. Layout diagramming and coding. Maintenance on websites in WordPress.
 
 **Unigranrio, Frontend Developer - Rio de Janeiro, Brazil.**
-*Remote. 08/2011 - 10/2015.*
+*REMOTE. 08/2011 - 10/2015.*
 
 **Agência Enfoco, Web Designer - Rio de Janeiro, Brazil.**
 *07/2009 - 07/2011.*
