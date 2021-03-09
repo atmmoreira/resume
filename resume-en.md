@@ -24,7 +24,7 @@ TECHNOLOGY OF SYSTEMS FOR INTERNET » *2008 - 2011*
 
 ## SKILLS
 - BASIC: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » Typescript » Python » TailwindCSS.
-- INTERMEDIATE: Javascript » jQuery » MySQL » WordPress » Webpack.
+- INTERMEDIATE: Javascript » jQuery » Figma » MySQL » WordPress » Webpack.
 - ADVANCED: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS.
 
 ----

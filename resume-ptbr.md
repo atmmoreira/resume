@@ -24,7 +24,7 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 
 ## TECNOLOGIAS
 - BÁSICO: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » Typescript » Python » TailwindCSS.
-- INTERMEDIÁRIO: Javascript » jQuery » MySQL » WordPress » Webpack.
+- INTERMEDIÁRIO: Javascript » jQuery » Figma » MySQL » WordPress » Webpack.
 - AVANÇADO: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS.
 
 ----
