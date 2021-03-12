@@ -1,5 +1,5 @@
 # ANDERSON TOLEDO MARTINS MOREIRA
-> » *Javascript Developer - Rio de Janeiro, Brasil*
+> » *Javascript Developer - Rio de Janeiro, Brasil - [Download Currículo](docs/andersontoledo-pt.pdf)*
 
 > [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com)
 | [(+55) (21) 9.9289.0362](tel:+5521992890362)
@@ -23,9 +23,9 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ----
 
 ## TECNOLOGIAS
-- BÁSICO: Express » Docker » MongoDB » Node » PHP » Laravel » React » RESTFull APIs » Vue » Typescript » Python » TailwindCSS.
-- INTERMEDIÁRIO: Javascript » jQuery » Figma » MySQL » WordPress » Webpack.
-- AVANÇADO: BEM » Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » Photoshop » SASS.
+- BÁSICO: Node » Express » Docker » MongoDB » Python » PHP » Laravel » React » Vue » Next » Gatsby » Typescript » TDD.
+- INTERMEDIÁRIO: Javascript » jQuery » Styled-Components » TailwindCSS » Figma » Adobe XD » MySQL » Webpack.
+- AVANÇADO: Bootstrap » BulmaCSS » HTML5/CSS3 » Git/GitHub » Illustrator » SASS » WordPress.
 
 ----
 
@@ -115,7 +115,3 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 - SPTech Desenvolvimento Frontend - [Visualizar Certificado](https://bit.ly/377BUwV)
 - SPTech Desenvolvimento Fullstack - [Visualizar Certificado](https://bit.ly/37a99Qm)
 - SPTech Desenvolvimento Backend - [Visualizar Certificado](http://bit.ly/3nwsVv5)
-
-----
-
-## [DOWNLOAD CURRÍCULO](docs/andersontoledo-pt.pdf)
