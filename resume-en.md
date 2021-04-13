@@ -5,7 +5,7 @@
 | [(+55) (21) 9.9289.0362](tel:+5521992890362)
 | [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362)
 | [Telegram](https://telegram.me/atmmoreira)
-| [LinkedIn](http://br.linkedin.com/in/atmmoreira)
+| [LinkedIn](https://www.linkedin.com/in/atmmoreira/)
 | [GitHub](https://github.com/atmmoreira)
 
 > I work as a Web Designer/Frontend, since 2000 building and coding layout with photoshop, illustrator, HTML5/CSS3, javascript (jquery) and bootstrap. Hands-on on institutional and corporate websites, online catalogs, small/medium size projects for online stores, with wordpress both in the creation of simple themes with php and in the implementation of layout in default or purchased themes. Code management with git/github. Basic set-up of hosting such as aws, heroku, shared servers, digitalocean and others. Adept at using methodologies like agile scrum and kanban, and programming paradigms such as object orientation and functional programming.
