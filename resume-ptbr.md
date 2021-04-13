@@ -5,7 +5,7 @@
 | [(+55) (21) 9.9289.0362](tel:+5521992890362)
 | [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362)
 | [Telegram](https://telegram.me/atmmoreira)
-| [LinkedIn](http://br.linkedin.com/in/atmmoreira)
+| [LinkedIn](https://www.linkedin.com/in/atmmoreira/)
 | [GitHub](https://github.com/atmmoreira)
 
 > Atuo como Web Designer/Frontend, desde 2000 com diagramação e codificação de layout com photoshop, illustrator, HTML5/CSS3, javascript (jquery) e bootstrap. Hands-on em sites institucionais e corporativos, catálogos online, projetos de pequeno/médio porte para lojas virtuais, com WordPress tanto na criação de temas simples com PHP quanto na implementação de layout em temas prontos. Gerenciamento de código com Git/GitHub. Set-up de hospedagens compartilhadas. Adepto a utilização de metodologias ágeis scrum e kanban, e paradigmas de programação como orientação à objetos e programação funcional.
