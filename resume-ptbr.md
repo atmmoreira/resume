@@ -32,10 +32,6 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 ## PROJETOS
 > Projetos em Node:
 - Node com EJS: https://atmm-contacts.herokuapp.com/
-- API Restfull com Node: [Ver código fonte](https://bit.ly/3oHDZXc)
-
-> Projeto em React:
-- Consumo de API Restfull em Node: [Ver código fonte](https://bit.ly/3oHE90K)
 
 > Projetos recentes:
 - [ATMM.Dev](https://www.atmm.dev) - Portfólio [HTML5/CSS3, Javascript, Bootstrap e PHP]
@@ -43,16 +39,10 @@ TECNOLOGIA EM SISTEMAS PARA INTERNET » *2008 - 2011*
 - [Ambiental Elétrica](http://www.ambientaleletrica.com.br) [WordPress]
 - [Art Prodigy Jiu Jitsu](http://artprodigyjiujitsu.com.br/) [HTML5/CSS3, Javascript, Bootstrap e PHP]
 - [Elétrica Solaris](http://www.eletricasolaris.com.br) [WordPress]
-- [Focus Cargo](http://www.focuscargo.com) [WordPress]
-- [Hope Ecotour](http://www.hopeecotour.com.br) [WordPress]
 - [Interoceânica](http://www.interoceanica.com.br) [WordPress]
 - [Ketlog](http://www.ketlog.com.br) [WordPress]
 - [Portal Rioinvest](http://www.rioinvest.rj.gov.br) [HTML5/CSS3, Javascript, Leaflet.js, Bootstrap e PHP]
 - [Solfono](http://www.solfono.com.br) [HTML5/CSS3, Javascript, Bootstrap e PHP]
-- [Wgat](http://www.wgat.com.br) [WordPress]
-
-> Projeto em Laravel:
-- [CjurX](http://www.cjurx.com.br) Onde pude participar, com a criação da diagramação Layout do Frontend e do Painel Administrativo. Com conhecimentos em Laravel básicos, na criação de Migrations, Seeders, Models, Controllers via linha de comando.
 
 ----
 
